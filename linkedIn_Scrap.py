@@ -13,6 +13,7 @@ src = result.content
 soup = BeautifulSoup(src,"lxml")
 
 JobTitles =[]
+
 company=[]
 location=[]
 posted=[]
